@@ -1,2 +1,2 @@
-# pythos_test
+# Python_test
 Python研修
